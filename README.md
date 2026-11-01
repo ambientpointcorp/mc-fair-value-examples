@@ -8,7 +8,7 @@ Prepayment Modeling, and OAS Analytics*, by Ariel Rodríguez Herrera
 ISBN 979-8-234-25206-7 (print) · ISBN 979-8-234-25207-4 (ebook)
 
 <!-- badges: start -->
-[![smoke-test](https://github.com/ambientpointcorp/mc-fair-value-book/actions/workflows/smoke-test.yaml/badge.svg?branch=main)](https://github.com/ambientpointcorp/mc-fair-value-book/actions/workflows/smoke-test.yaml)
+[![smoke-test](https://github.com/ambientpointcorp/mc-fair-value-examples/actions/workflows/smoke-test.yaml/badge.svg?branch=main)](https://github.com/ambientpointcorp/mc-fair-value-examples/actions/workflows/smoke-test.yaml)
 <!-- badges: end -->
 
 The badge covers the chapter scripts. Every chapter is parsed on each push, and
@@ -60,7 +60,7 @@ The **appendices** give a function reference and a glossary.
 ## What is in this repository
 
 ```
-mc-fair-value-book/
+mc-fair-value-examples/
 ├── 01-term-structure.R  …  22-hedging.R   One file per chapter
 ├── data/
 │   ├── README.md                          Provenance and column reference
